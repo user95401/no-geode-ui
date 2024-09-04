@@ -1,0 +1,15 @@
+{
+	"early-load": true,
+	"geode": "3.4.0",
+	"gd": {
+		"win": "*",
+		"android": "*",
+		"mac": "*",
+		"ios": "*"
+	},
+	"id": "user95401.no_geode_ui",
+	"name": "No Geode UI",
+	"version": "v1.0.0",
+	"developer": "user95401",
+	"description": "Remove button, loading label and all other nodes about geode loader."
+}
