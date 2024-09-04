@@ -4,6 +4,11 @@ Remove button, loading label and all other nodes about geode loader.
 
 <img src="logo.png" width="150" alt="the mod's logo" />
 
+![image](https://github.com/user-attachments/assets/cb5cc398-0fa0-4b42-a5d2-247c438babd6)
+
+![image](https://github.com/user-attachments/assets/efa42181-9d18-4d53-a0f3-56b10cd47675)
+
+
 ## Build instructions
 For more info, see [our docs](https://docs.geode-sdk.org/getting-started/create-mod#build)
 ```sh
